@@ -9,6 +9,24 @@ Below you will find the accuracy score, precision, and recall of each machine le
 
 - RandomOverSampler
 
+![...](RandomOverSampler.png)
 
+- SMOTE
 
-## Summary
+![...](SMOTE.png)
+
+- ClusterCentroids
+
+![...](Undersampling.png)
+
+- SMOTEENN
+
+![...](CombinationSampling.png)
+
+- BalancedRandomForestClassifier
+
+![...](BalancedRandomForest.png)
+
+- EasyEnsembleClassifier
+
+![...](EasyEnsembleAdaBoost.png)
